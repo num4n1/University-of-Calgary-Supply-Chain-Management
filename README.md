@@ -43,5 +43,5 @@ This is an application to calculate the cheapest combination of available invent
 
 1. Zeeshan Chougle - 30094417
 2. Muhammed Umar - 30062451
-3. Mohammed Numan - 30086940
+3. Mohamed Numan - 30086940
 4. Mohammad Mahtab Khan - 3010408
