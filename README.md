@@ -1,11 +1,13 @@
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 # University-of-Calgary-Supply-Chain-Management (HYL 2021)
 ENSF409 FINAL TEAM PROJECT - WINTER 2021
 
-## Description
+## **Description**
 
 This is an application to calculate the cheapest combination of available inventory items that can be used to fill a specific order. It utilizes a MySQL database (inventory) provided by HYL, to extract data pertaining to the availability of reusbale parts to create user requested objects. The application updates the database when certain products are purchased to recylce its parts.
 
-## Current features
+## **Current features**
 
 (1) Accepts Input from the User through a user friendly GUI. The code enables the user to return the item name in case the item name does not exist in the database.
 
@@ -19,19 +21,15 @@ This is an application to calculate the cheapest combination of available invent
 ## UML Diagram
 ![image](https://user-images.githubusercontent.com/53919885/114313651-5a2eeb00-9b08-11eb-92cf-c17c692f7d80.png)
 
-## Java imports used 
+## **Java imports used** 
 
-(1) import java.sql.*
+- import java.sql.*
+- import java.io.*
+- import java.util.*
+- import org.junit.*
+- import static org.junit.Assert.*
 
-(2) import java.io.*
-
-(3) import java.util.*
-
-(4) import org.junit.*
-
-(5) import static org.junit.Assert.*
-
-## How to run
+## **How to Install and Run the Project**
 
 (1) Clone the repository
 
@@ -39,7 +37,7 @@ This is an application to calculate the cheapest combination of available invent
 
 (3) Run the FinalProjectTest.java for Unit Testing purposes.
 
-## Done by : 
+## **Team Members:** 
 
 1. Zeeshan Chougle - 30094417
 2. Muhammed Umar - 30062451
